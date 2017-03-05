@@ -1,6 +1,10 @@
-site/
+_site/
 .sass-cache/
 .jekyll-metadata
 .Bundle
 Gemfile*
 vendor/
+
+#vim
+*.swp
+tags
