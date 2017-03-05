@@ -16,9 +16,9 @@ dl, dd, ol, ul, figure {
 body {
     font-family: 'Karla', sans-serif;
     color: $text-color;
-    padding: 40px;
+    max-width: 500px;
     font-weight: 400;
-    margin: 0;
+    margin: 0 auto;
     background-color: $background-color;
     -webkit-text-size-adjust: 100%;
     -webkit-font-feature-settings: "kern" 1;
