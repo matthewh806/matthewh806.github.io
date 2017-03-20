@@ -12,3 +12,5 @@ It's been almost 4 years since my last dream diary entry, I've still not succeed
 
 My hope is to keep a semi-regular log of my dreams on this site. The only rule I will impose on myself is that I must copy the logs verbatim from my physical journal (save for names, to avoid any potential embarrassment).
 
+My longterm hope / goal is to create very simple games out of some (or all!) of my dreams. This is far from an original idea, with numerous examples available, most notable is the PlayStation game [LSD](https://en.wikipedia.org/wiki/LSD_(video_game)) based on a journal of 10 years. I haven't yet had the pleasure of playing the game, but it looks great. 
+
