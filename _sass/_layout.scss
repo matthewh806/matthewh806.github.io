@@ -105,10 +105,14 @@
     margin-bottom: $spacing-unit / 2;
 }
 
-.contact-list,
-.social-media-list {
+.contact-list {
     list-style: none;
     margin-left: 0;
+}
+.social-media-list {
+    list-style: none;
+    margin-right: 0;
+    float:right;
 }
 
 .footer-col-wrapper {
